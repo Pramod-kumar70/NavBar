@@ -1,0 +1,9 @@
+.NavColor{
+    background-color: #FFDDA9;
+}
+.NavItems a{
+    color: black;
+    text-decoration: none;
+    margin-right: 8px;
+
+}
